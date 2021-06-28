@@ -1,0 +1,156 @@
+﻿PASO 1 CONCEPTUALIZACIÓN SOBRE PROGRAMACIÓN OO
+PRESENTADO POR:
+EDWIN ALEJANDRO SANCHEZ MUÑOZ
+PRESENTADO A:
+JOHAN MANUEL GORDILLO
+TUTOR DEL CURSO: FUNDAMENTOS DE PROGRAMACIÓN
+CURSO: 213022A_952
+GRUPO: 213022_1
+UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA UNAD
+ESCUELA DE CIENCIAS BASICAS TECNOLOGIA E INGENIERIA (ECBTI)
+CCAV ZIPAQUIRA
+CUNDINAMARCA
+ABRIL 2021
+INTRODUCCIÓN
+El presente trabajo se enfoca en la programación orientada a objetos. Abordamos conceptos
+básicos que nos permitirán acercarnos más a la ingeniería multimedia, la enseñanza y el
+aprendizaje autónomo. Esta materia me ha permitido profundizar en el tema avanzando en cada
+fase del curso de fundamentos de programación. Por otra parte, como estudiante adaptar todas las
+herramientas necesarias para ser un excelente programador durante la carrera y a futuro. La
+capacidad de hacer pruebas de escritorio y aplicarlas con cada uno de los puntos estructurados por
+el tutor quien con paciencia nos los enseña paso a paso.
+Los conceptos fundamentales planteados desde una línea grafica y la POO
+Programación orientada a objetos como son Clase y sus características llamadas atributo y el
+método o la forma como se entiende el ítem clase, nos dan una idea de como empezar un
+proyecto de Programación sin tener conceptos previos.
+El tema se convierte en muy interesante desde mi punto de vista pues se convierte en
+una de las ruedas de la carrera de Ingeniería Multimedia cada vez que este conocimiento me
+permitirá acceder a conocimientos más profundas para aplicar en la carrera.
+OBJETIVOS
+•
+El objetivo central fue el de darnos a conocer cada uno de los códigos para el
+respectivo desarrollo del trabajo y la aplicación de un diagrama de clases en el aplicativo
+draw.io.
+•
+Es un curso de aprendizaje autónomo para el estudiante durante su periodo
+académico.
+•
+Aprender los conceptos básicos de programación y de diseño a través de una línea
+grafica y sus primeros pasos a saber: clase, atributo y método
+•
+Desarrollar un primer ejemplo donde aplique estos conceptos, en el ejemplo
+propuesto en la guía actividad 4: vuelo con cupos limitados dirigido a un grupo especifico de
+pasajeros.
+•
+Identificar los primeros pasos acerca de lo que es la Programación enfocada a
+objetos POO.
+•
+Elaborar la gráfica respectiva en Draw.io
+Problema 4: Especificar un diagrama de clases que describa los vuelos que oferta una
+compañía de viajes según la siguiente especificación:
+• La compañía oferta una serie de vuelos para unas fechas concretas y con un número
+de plazas.
+• La compañía dispone de una flota de aviones con una capacidad que da soporte a los
+vuelos ofertados.
+• Las personas compran billetes para los vuelos que le interesan. Para emitir el billete
+es necesario conocer el nombre, apellidos y edad del pasajero.
+• Los billetes identifican el número de asiento que ocupan.
+Tabla 1 – Información Situación Problema a Resolver
+Estudiante
+Problema
+seleccionado
+(Marque con una x el problema a
+resolver)
+Herramientas
+seleccionadas
+(Marque con una x el aplicativo
+utilizado)
+Edwin Alejandro
+Sanchez Muñoz
+Grupo: 213022_1
+Problema 1
+Problema 2
+Problema 3
+x
+Problema 4
+Problema 5
+Gliffy
+x
+Draw.io
+Visual paradigm
+Tabla 2 – Identificación de Datos y Operaciones con el Objeto
+Clase o Tipo
+de Objeto
+Datos o
+Variables
+Características o
+Atributos
+Operaciones o Métodos
+Empresa
+string
+nombreEmpresa
+definirNombreEmpresa ()
+data
+fechaVuelo
+definirFechaVuelo ()
+string
+numeroSala
+definirNumeroSala ()
+Clase o Tipo
+de Objeto
+Datos o
+Variables
+Características o
+Atributos
+Operaciones o Métodos
+Billetes
+String
+numeroAsiento
+definirNumeroAsiento()
+Clase o Tipo
+de Objeto
+Datos o Variables
+Características o
+Atributos
+Operaciones o Métodos
+Avión
+String
+tipoVuelo
+definirTipoVuelo()
+data
+numeroPasajero definirNumeroPasajero()
+Clase o Tipo
+de Objeto
+Datos o Variables
+Características o
+Atributos
+Operaciones o Métodos
+Pasajero
+String
+Nombre
+definirNombre()
+String
+Apellido
+definirApellido()
+int
+Edad
+definirEdad()
+
+• Diagrama de clases
+CONCLUSIONES
+Este trabajo me permitió conocer de que se trata la programación orientada a objetos lo
+cual es un tema muy importante para mi carrera como estudiante de la universidad UNAD me
+ayuda a conocer cada uno de los códigos a utilizar en los diagramas de clases y su respectiva
+organización para obtener un trabajo con éxito.
+Puedo percibir que este sistema de programación POO, es ideal para empezar porque
+al agrupar grupos, probablemente el margen de error sea menor si algo llegase a quedar mal.
+Por otra parte, las estructuras de código u objetos que contengan una serie de informaciones
+precisas resolverán tareas comunes.
+Me gustaría sin embargo saber más acerca del objetivo del POO acerca de como
+catalogar y diferenciar códigos y todas las estructuras jerárquicas que se podrían lograr.
+Desmenuzando lo aprendido puedo definir que los atributos son las propiedades que
+definen la información del objeto, por lo cual el concepto de clase siempre es la representación
+abstracta y el objeto la representación concreta.
+Se que este tipo de programación tiene muchas ventajas, las cuales estoy ansioso por
+conocer más, pues percibo que estos conceptos se convierten en la raíz del tema en general.
+REFERENCIAS BIBLIOGRAFICAS
